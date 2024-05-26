@@ -1,0 +1,29 @@
+@media (max-width: 1080px) {
+  .header__row {
+    column-gap: 30px;
+  }
+
+  .header__img {
+    width: 300px;
+    border-radius: 30px;
+  }
+
+  .header__title {
+    font-size: 52px;
+  }
+
+  .header__text {
+    font-size: 22px;
+  }
+
+  .portfolio__title {
+    font-size: 42px;
+  }
+  .contacts__title {
+    font-size: 42px;
+  }
+
+  .inner-page__title {
+    font-size: 42px;
+  }
+}
